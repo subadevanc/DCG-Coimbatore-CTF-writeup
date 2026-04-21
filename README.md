@@ -20,48 +20,48 @@ Clean challenge-wise writeups organized by category.
 | Challenge | Writeup |
 | --- | --- |
 | Hidden | [Open](Beginner/Hidden/writeup.md) |
-| Caesars Emporium | [Open](Beginner/Caesars Emporium/writeup.md) |
+| Caesars Emporium | [Open](Beginner/Caesars%20Emporium/writeup.md) |
 | H3h3 | [Open](Beginner/H3h3/writeup.md) |
-| Agent of Chaos | [Open](Beginner/Agent of Chaos/writeup.md) |
+| Agent of Chaos | [Open](Beginner/Agent%20of%20Chaos/writeup.md) |
 
 ### Crypto
 
 | Challenge | Writeup |
 | --- | --- |
-| Enjoy your meal | [Open](Crypto/Enjoy your meal/writeup.md) |
+| Enjoy your meal | [Open](Crypto/Enjoy%20your%20meal/writeup.md) |
 | Artifact | [Open](Crypto/Artifact/writeup.md) |
 
 ### Reverse Engineering
 
 | Challenge | Writeup |
 | --- | --- |
-| BASIC | [Open](Reverse Engineering/BASIC/writeup.md) |
-| Ghost | [Open](Reverse Engineering/Ghost/writeup.md) |
-| kitty_cat | [Open](Reverse Engineering/kitty_cat/writeup.md) |
-| BabyDenuvo | [Open](Reverse Engineering/BabyDenuvo/writeup.md) |
+| BASIC | [Open](Reverse%20Engineering/BASIC/writeup.md) |
+| Ghost | [Open](Reverse%20Engineering/Ghost/writeup.md) |
+| kitty_cat | [Open](Reverse%20Engineering/kitty_cat/writeup.md) |
+| BabyDenuvo | [Open](Reverse%20Engineering/BabyDenuvo/writeup.md) |
 
 ### Misc
 
 | Challenge | Writeup |
 | --- | --- |
-| Romeo and Juliet | [Open](Misc/Romeo and Juliet/writeup.md) |
-| Git Necromancy | [Open](Misc/Git Necromancy/writeup.md) |
+| Romeo and Juliet | [Open](Misc/Romeo%20and%20Juliet/writeup.md) |
+| Git Necromancy | [Open](Misc/Git%20Necromancy/writeup.md) |
 
 ### Forensics
 
 | Challenge | Writeup |
 | --- | --- |
-| DNS Tunnel | [Open](Forensics/DNS Tunnel/writeup.md) |
+| DNS Tunnel | [Open](Forensics/DNS%20Tunnel/writeup.md) |
 | BetweenTheFrames | [Open](Forensics/BetweenTheFrames/writeup.md) |
-| Memory Shadows | [Open](Forensics/Memory Shadows/writeup.md) |
-| Deleted Evidence | [Open](Forensics/Deleted Evidence/writeup.md) |
+| Memory Shadows | [Open](Forensics/Memory%20Shadows/writeup.md) |
+| Deleted Evidence | [Open](Forensics/Deleted%20Evidence/writeup.md) |
 
 ### Web Exploit
 
 | Challenge | Writeup |
 | --- | --- |
-| Magical Gallery | [Open](Web exploit/Magical Gallery/writeup.md) |
-| Hidden Schema | [Open](Web exploit/Hidden Schema/writeup.md) |
+| Magical Gallery | [Open](Web%20exploit/Magical%20Gallery/writeup.md) |
+| Hidden Schema | [Open](Web%20exploit/Hidden%20Schema/writeup.md) |
 
 ### PWN
 
@@ -73,5 +73,5 @@ Clean challenge-wise writeups organized by category.
 
 | Challenge | Writeup |
 | --- | --- |
-| Training Wheels | [Open](OSINT/Training Wheels/writeup.md) |
-| Absolute Cine | [Open](OSINT/Absolute Cine/writeup.md) |
+| Training Wheels | [Open](OSINT/Training%20Wheels/writeup.md) |
+| Absolute Cine | [Open](OSINT/Absolute%20Cine/writeup.md) |
