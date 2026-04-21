@@ -1,5 +1,11 @@
 # DCG Coimbatore CTF Writeup 2026
 
+Team: Flaggers United
+
+Player: Subadevan C
+
+![](https://cdn-images-1.medium.com/max/800/1*9w7CLI3pWA6I1ArpHGREXA.png)
+
 Clean challenge-wise writeups organized by category.
 
 ## Quick Access
