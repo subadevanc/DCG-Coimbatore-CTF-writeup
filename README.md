@@ -6,7 +6,7 @@ Player: Subadevan C
 
 ![](https://cdn-images-1.medium.com/max/800/1*9w7CLI3pWA6I1ArpHGREXA.png)
 
-Clean challenge-wise writeups organized by category.
+if you like to scroll: https://chemical-filament-bd8.notion.site/34908064786e80fe8443da6372592fb4?pvs=74
 
 ## Quick Access
 
